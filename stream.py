@@ -84,8 +84,8 @@ class StreamListener(tweepy.Stream):
 
 
 
-stream_listener = StreamListener('tSTGheSxnBYdbeAsdgoONHpKO',
-        '6olnst42blgg7SieQDZc0JNXrcfPhefgyzt2Thleg2K1qJ86BP',
-        '1488430474758598658-ZwqvC9nBE5vw9TXGa0qpvm2VeTMzSo',
-        'TsTy0apy2aCzEuXBj7p0W2VRG3ucr0HBXfLmirQGHyioI')
+stream_listener = StreamListener('...............',
+        '............',
+        '...................',
+        '.................')
 stream_listener.filter(track = ["gempa","banjir"])
